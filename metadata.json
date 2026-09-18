@@ -1,0 +1,6 @@
+{
+  "name": "Elite Store Foundation",
+  "description": "Ultra-modern minimal clothing e-commerce store featuring curated garment catalog with size selection, intelligent AI Product Recommendations powered by the Claude Opus 4.8 engine, slide-out shopping cart drawer, complete discount and promo code engine, multi-step checkout with Stripe payment processing, and executive Admin Dashboard with promo code management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
